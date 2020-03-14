@@ -12,4 +12,3 @@ if __name__ == '__main__':
     with open("java/" + file_name + ".java", 'w'):
         pass
     print("Done!")
-    pdsafasfrint("Done!")
